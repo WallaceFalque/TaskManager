@@ -14,8 +14,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers();
 builder.Services.AddScoped<TarefasDbService>();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=Task.Db"));  
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("ReactFrontend", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
+app.UseCors("ReactFrontend");
 app.MapControllers();
 
 // Configure the HTTP request pipeline.

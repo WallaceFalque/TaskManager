@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gvpM4pywURI=",
+  "dgSpecHash": "gpCVC3DawmM=",
   "success": true,
-  "projectFilePath": "E:\\VSCodeProjects\\ToDoList\\back\\todolist\\ToDoList.csproj",
+  "projectFilePath": "E:\\VSCodeProjects\\ToDoList\\Back\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wallace\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\wallace\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",

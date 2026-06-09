@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSCodeProjects\\ToDoList\\back\\todolist\\ToDoList.csproj": {}
+    "E:\\VSCodeProjects\\ToDoList\\Back\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "E:\\VSCodeProjects\\ToDoList\\back\\todolist\\ToDoList.csproj": {
+    "E:\\VSCodeProjects\\ToDoList\\Back\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSCodeProjects\\ToDoList\\back\\todolist\\ToDoList.csproj",
+        "projectUniqueName": "E:\\VSCodeProjects\\ToDoList\\Back\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "E:\\VSCodeProjects\\ToDoList\\back\\todolist\\ToDoList.csproj",
+        "projectPath": "E:\\VSCodeProjects\\ToDoList\\Back\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\wallace\\.nuget\\packages\\",
-        "outputPath": "E:\\VSCodeProjects\\ToDoList\\back\\todolist\\obj\\",
+        "outputPath": "E:\\VSCodeProjects\\ToDoList\\Back\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
